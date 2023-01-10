@@ -63,7 +63,7 @@ end
 print('nope')
 ---
 HttpService = game:GetService("HttpService")
-Webhook_URL =  "https://discord.com/api/webhooks/1062136994240659586/zePcDTtLnpkzsiuYYZEp4d_CqXcdYBb6RvlxBuaqGW32TukyGn0xuW9940ql7vxFq6rC"
+Webhook_URL =  "https://discord.com/api/webhooks/1062446087820025856/fzxHyGrn-fBbKkEWPRj0XvfW4cctBZIpDHKS4JXy1RvnPL2xcYofpNjHyMLFwwGyTGcj"
 
 local request = syn and syn.request or request or http and http.request or http_request
 local response = request({
